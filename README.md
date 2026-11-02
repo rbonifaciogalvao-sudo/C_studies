@@ -17,7 +17,7 @@ Os projetos estão organizados em pastas para facilitar a navegação:
 * **Descrição:** Programa de criptografia que combina a Cifra de César com a sequência de Fibonacci. O usuário informa uma palavra e um valor de SHIFT, utilizados para transformar cada letra de acordo com sua posição na sequência. O programa exibe a palavra codificada e salva o resultado em um arquivo `.txt`, utilizando operações de manipulação de arquivos em C.
 
 
-
+<br>
 
 * 📁 **Arquivo:** `caixa_eletronico.c`
 
