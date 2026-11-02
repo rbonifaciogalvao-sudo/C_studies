@@ -26,6 +26,18 @@ Os projetos estão organizados em pastas para facilitar a navegação:
 * **Descrição:** Programa que simula uma operação de saque em um caixa eletrônico, utilizando um saldo inicial de R$ 1.000,00. O sistema valida se o valor solicitado é múltiplo de 5 e se há saldo suficiente para realizar a operação. Em seguida, calcula a quantidade de notas necessárias de R$ 100, R$ 50, R$ 20, R$ 10 e R$ 5, atualizando e exibindo o saldo restante.
 
 
+* 📁 **Arquivo:** `ordenador.c`
+
+* 🔢 [Algoritmos de Ordenação e Manipulação de Arquivos](ordenador.c)
+
+* **Descrição:** Programa desenvolvido em C que permite inserir números, armazená-los em um arquivo `.txt` e escolher entre cinco algoritmos de ordenação: Bubble Sort, Insertion Sort, Selection Sort, Merge Sort e Quick Sort. O sistema também implementa a leitura e gravação de arquivos, além de permitir alterar um número em uma posição específica e realizar uma nova ordenação dos dados.
+
+
+
+
+
+
+
 
 
 
