@@ -10,10 +10,9 @@ Bem-vindo ao meu repositório de estudos em Linguagem C! Aqui eu guardo meus có
 
 Os projetos estão organizados em pastas para facilitar a navegação:
 
+* 📁 **Arquivo:** `criptografia.c`
 
-* 📁 **Arquivo:** `criptografia_fibonacci_cesar.c`
-
-* 🔐 [Criptografia com Fibonacci e Cifra de César](./09-projetos-e-atividades/criptografia_fibonacci_cesar.c)
+* 🔐 [Criptografia com Fibonacci e Cifra de César](criptografia.c)
 
 * **Descrição:** Programa de criptografia que combina a Cifra de César com a sequência de Fibonacci. O usuário informa uma palavra e um valor de SHIFT, utilizados para transformar cada letra de acordo com sua posição na sequência. O programa exibe a palavra codificada e salva o resultado em um arquivo `.txt`, utilizando operações de manipulação de arquivos em C.
 
