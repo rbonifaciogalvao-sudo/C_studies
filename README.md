@@ -19,6 +19,20 @@ Os projetos estão organizados em pastas para facilitar a navegação:
 
 
 
+* 📁 **Arquivo:** `caixa_eletronico.c`
+
+* 💰 [Simulador de Caixa Eletrônico](caixa_eletronico.c)
+
+* **Descrição:** Programa que simula uma operação de saque em um caixa eletrônico, utilizando um saldo inicial de R$ 1.000,00. O sistema valida se o valor solicitado é múltiplo de 5 e se há saldo suficiente para realizar a operação. Em seguida, calcula a quantidade de notas necessárias de R$ 100, R$ 50, R$ 20, R$ 10 e R$ 5, atualizando e exibindo o saldo restante.
+
+
+
+
+
+
+
+
+
 
 
 
