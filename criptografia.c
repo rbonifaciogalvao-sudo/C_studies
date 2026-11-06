@@ -1,9 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-//Rafaela Bonifacio Galvão - 48178837
-//Wilchid Vilsaint - 47443227
-//Yago Lima de Queiroz - 48140597
+
 int main() {
 
     char palavra[16];
