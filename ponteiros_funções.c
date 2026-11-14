@@ -10,4 +10,4 @@ int main(void) {
     ajustar(&x, &x);
     printf("%d\n", x);
     return 0;
-}Ponteiros e funções em C
+}
